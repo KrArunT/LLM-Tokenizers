@@ -60,11 +60,3 @@ If you want to save the tokenizer locally for later use:
 ds_tokenizer.save_pretrained("ds-rk1-1.5b")
 llama_tokenizer.save_pretrained("llama3.2-1b")
 ```
-
-## License  
-
-This project follows the licensing terms of the respective models from **Hugging Face**.
-
----
-
-Let me know if you need any modifications! 🚀
